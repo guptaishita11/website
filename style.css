@@ -3,7 +3,7 @@ body {
   line-height: 2;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: url("cursors/c3.png"), text;
+  cursor: url("c3.png"), text;
 }
 .des{
   font-family: 'Press Start 2P', cursive;
@@ -143,7 +143,7 @@ table {
 .bt {
   padding: 15px 25px;
   font-size: 20px;
-  cursor: url("cursors/pro.png"), text;
+  cursor: url("pro.png"), text;
   text-align: center;
   text-decoration: none;
   color: #fff;
