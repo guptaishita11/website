@@ -3,7 +3,7 @@ body {
   line-height: 2;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: url("c3.png"), text;
+  cursor: url("point.png"), text;
 }
 .des{
   font-family: 'Press Start 2P', cursive;
