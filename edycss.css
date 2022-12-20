@@ -1,0 +1,48 @@
+body {
+  padding-top: 20px;
+  padding-left: 50px;
+  background-image: url("bk.png");
+  line-height: 2;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: url("cursors/edu.png"), text;
+}
+.edu{
+  padding-left: 10px;
+  font-family: 'Press Start 2P', cursive;
+  color: #800020;
+  text-shadow: 4px 4px 6px white;
+  font-size: 15px;
+  text-align: left;
+  font-weight: normal;
+}
+.skill {
+  padding-left: 10px;
+  font-family: 'Press Start 2P', cursive;
+  color: #800020;
+  text-shadow: 4px 4px 6px white;
+  font-size: 35px;
+  text-align: center;
+  font-weight: normal;
+}
+.white
+{
+  padding-left: 10px;
+font-family: 'Laila', sans-serif;
+  color: white;
+  text-shadow: 4px 4px 6px brown;
+  font-size: 25px;
+  text-align: center;
+  font-weight: normal;
+
+}
+.la {
+  border: none;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  font-size: 20px;
+  width: 100%;
+  font-family: monospace;
+  color: #800020;
+  text-shadow: 4px 4px 6px white;
+}

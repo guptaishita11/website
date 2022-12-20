@@ -1,0 +1,195 @@
+body {
+  background-image: url("bk.png");
+  line-height: 2;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: url("cursors/c3.png"), text;
+}
+.des{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 20px green;
+  padding-bottom: 0;
+}
+.gif {
+  margin-top: 0;
+  height: 5px;
+  padding-top: 0;
+}
+
+.head {
+  padding-top: 65px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  position: relative;
+}
+
+.hc {
+  float: inherit;
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 450%;
+  font-style: oblique;
+  text-shadow: 0 0 51px #808000, 0 0 15px #808000;
+}
+
+table {
+  width: 100%;
+}
+
+.pics1 {
+  width: 200px;
+}
+
+.pics2 {
+  width: 200px;
+}
+
+.pics3 {
+  width: 200px;
+}
+
+.pics1:hover {
+  background-color: #9A2A2A;
+  border-radius: 100%;
+}
+
+.pics2:hover {
+  background-color: #9A2A2A;
+  border-radius: 100%;
+}
+
+.pics3:hover {
+  background-color: #C04000;
+  border-radius: 100%;
+}
+
+.epw {
+  align-content: center;
+  font-family: 'Laila', sans-serif;
+  color: white;
+  padding: 50px;
+  text-shadow: 4px 4px 6px #80461B;
+  position: relative;
+  margin: 20px 0 auto 0;
+  display: flex;
+  justify-content: center;
+
+    }
+
+.epw:hover {
+  color: brown;
+}
+
+.epw::after {
+  color: #9A2A2A;
+}
+
+.p1:hover {
+  color: #EADDCA;
+}
+
+.p2:hover {
+  color: #EADDCA;
+}
+
+.p3:hover {
+  color: #EADDCA;
+}
+
+.info {
+  padding-top: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Press Start 2P', cursive;
+  font-size: 35px;
+}
+
+.info:hover {
+  color: #808000;
+}
+
+.info:active {
+  color: blue;
+}
+
+.skill {
+  padding-left: 10px;
+  font-family: 'Press Start 2P', cursive;
+  color: #800020;
+  text-shadow: 4px 4px 6px white;
+  font-size: 15px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.la {
+  margin: 0 auto 0 auto;
+  text-align: left;
+  font-size: 20px;
+  width: 55%;
+  font-family: monospace;
+  color: #800020;
+  text-shadow: 4px 4px 6px white;
+}
+
+.bt {
+  padding: 15px 25px;
+  font-size: 20px;
+  cursor: url("cursors/pro.png"), text;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #6E260E;
+  border: none;
+  border-radius: 100px;
+  box-shadow: 0 9px #C19A6B;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.bt:hover {
+  background-color: red;
+}
+
+.pr {
+  margin: 0 auto 0 auto;
+  text-align: left;
+  font-size: 20px;
+  width: 85%;
+  font-family: monospace;
+  color: #800020;
+  text-shadow: 4px 4px 6px #C19A6B;
+}
+
+.ec {
+  margin: 0 auto 0 auto;
+  text-align: left;
+  font-size: 20px;
+  width: 85%;
+  font-family: monospace;
+  color: #800020;
+  text-shadow: 4px 4px 6px white;
+}
+
+.s2 {
+  color: #EADDCA;
+  font-size: 90%;
+  text-shadow: 4px 4px 6px #800000;
+}
+
+.pos {
+  text-align: center;
+}
+
+hr {
+  border: 0;
+  height: 55px;
+  background-repeat: no-repeat;
+}
