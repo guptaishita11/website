@@ -5,7 +5,7 @@ body {
   line-height: 2;
   background-repeat: no-repeat;
   background-size: cover;
-  cursor: url("cursors/edu.png"), text;
+  cursor: url("edu.png"), text;
 }
 .edu{
   padding-left: 10px;
